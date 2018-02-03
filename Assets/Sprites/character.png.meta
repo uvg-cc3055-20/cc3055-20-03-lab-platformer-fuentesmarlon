@@ -1,7 +1,7 @@
 fileFormatVersion: 2
 guid: c750a0c2fb4d9db4ab4e5b5acc85d8bc
-timeCreated: 1517375165
-licenseType: Pro
+timeCreated: 1517695292
+licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: character_0
@@ -53,7 +53,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -140,7 +140,7 @@ TextureImporter:
       name: character_1
       rect:
         serializedVersion: 2
-        x: 72
+        x: 71
         y: 0
         width: 72
         height: 97
@@ -168,7 +168,7 @@ TextureImporter:
       name: character_3
       rect:
         serializedVersion: 2
-        x: 216
+        x: 217
         y: 0
         width: 72
         height: 97
